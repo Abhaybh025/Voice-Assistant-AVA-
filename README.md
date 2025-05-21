@@ -37,7 +37,7 @@ You will hear AVA greet you based on the time of day. Then you can speak command
 - "Play music"  
 - "What is the time?"  
 - "What is my IP address?"  
-- "Eva" (to chat with AI chatbot)  
+- "ava" (to chat with AI chatbot)  
 - "Go to sleep" (to exit the assistant)
 
 ---
