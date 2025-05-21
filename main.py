@@ -195,7 +195,7 @@ if __name__ == "__main__":
             except Exception as e: 
                 speak("network is weak, please try again some time later") 
 
-        elif "eva" in query:
+        elif "eva" in query or "ava" in query:
             chatBot(query)
 
         elif "go to sleep" in query: 
