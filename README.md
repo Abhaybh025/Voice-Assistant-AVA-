@@ -22,13 +22,12 @@ AVA is a Python-based voice assistant that can understand voice commands to perf
 
 1. **Clone the repository** (or download the code files):
 2. **Create a virtual environment (optional but recommended):**
-   - python -m venv venv
-   - source venv/bin/activate # On Windows use: venv\Scripts\activate
+- python -m venv venv
+- source venv/bin/activate # On Windows use: venv\Scripts\activate
 3. **Install required Python packages:**
-   - pip install -r requirements.txt
-
+- pip install -r requirements.txt
 4. Run the assistant by executing:
-   - python ava_assistant.py
+- python main.py
 
 You will hear AVA greet you based on the time of day. Then you can speak commands such as:
 
