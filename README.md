@@ -61,7 +61,8 @@ This project uses the following Python libraries:
 
 - The project currently works on Windows due to usage of Windows-specific paths and commands (like `taskkill`).  
 - To use the HugChat chatbot feature, ensure you have the correct `cookies.json` file with your Hugging Face session cookie.  
-- Update the music and movie directories in the script to your own file paths if you want to use media playing features.  
+- Update the music and movie directories in the script to your own file paths if you want to use media playing features.
+- Update the application directories in the script to your own application paths if you want to open desktop applications.
 
 ---
 
